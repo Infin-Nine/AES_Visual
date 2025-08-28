@@ -12,3 +12,13 @@ Explains SubBytes, ShiftRows, MixColumns, AddRoundKey
 Saves the entire process in a log file
 
 Beginner-friendly but detailed enough for advanced learners
+
+## Quick start
+```bash
+
+git clone https://github.com/Infin-Nine/AES_Visual
+cd AES_Visual
+python -m pip install -r requirements.txt
+python aes_visual.py
+
+```
